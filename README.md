@@ -1,33 +1,14 @@
-Merhaba benim adım Gizem ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) =============== ================================================= ================================================= ================ SAP ABAP Danışmanı ------------------ Bilgisayar programından mezun olduktan sonra bir mezun olarak mezun olmuş ve mobil programlama kodlaması devam ediyor. * 🌍 TÜRKİYE'de olacağız * ✉️ Bana [gizemkaragozlu5@gmail.com adresinden ulaşabilirsiniz.](mailtogizemkaragozlu5@gmail.com)[](mailto:gizemkaragozlu5@gmail.com) * 🧠 SAP ABAP ve Mobil geliştirme öğreniyorum
+<h1 align="center">Hi 👋, I'm Gizem</h1>
+<h3 align="center">SAP ABAP Consultant</h3>
 
-### Yetenekler
+- 🌱 I’m currently learning **Mobile development and sap**
 
+- 📫 How to reach me **gizemkaragozlu5@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https: //raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colours.svg" width="36" height="36" alt="C#" /></a>
-< a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons /skills/kotlin-colour.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/ public/icons/skills/php-colours.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" hedefi ="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colours.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colour.svg" width="36" height="36 " alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/ benioku-jeneratör/main/public/icons/skills/css3-colours.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap. com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colours.svg" genişlik ="36" height="36" alt="Önyükleme" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colours.svg" width="36" height="36" alt= "MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/ public/icons/skills/postgresql-colours.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" hedefi ="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colours.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney /readme-generator/main/public/icons/skills/photoshop-colours.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk /products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-color .svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://linkedin.com/in/gizemkaragozlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gizemkaragozlu" height="30" width="40" /></a>
 </p>
 
-
-###
-
-Sosyal Medya <p align="left"> <a href="https://www.github.com/gizemkaragozlu" target="_blank" rel="noreferrer"><img src="https://raw .githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www. instagram.com/gizem.karagozlu01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram. svg" genişlik="32" yükseklik="32" /></a> <a href="https://www.linkedin.com/in/gizem-karagozlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme -generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-
-### Rozetler
-
-<b>GitHub İstatistiklerim</b>
-
-<a href="http://www.github.com/gizemkaragozlu"><img src="https://github-readme-stats.vercel.app/api?username=gizemkaragozlu&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color =0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gizemkaragözlü'nün GitHub istatistikleri" /></a>
-
-### Beni destekle
-
-<a href="https://www.buymeacoffee.com/g"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /> </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
